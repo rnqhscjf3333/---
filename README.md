@@ -1,6 +1,6 @@
 # 동방과제록(東方課題郷)-이세카이로부터 탈출
-종스크롤 탄막 게임
-[플레이 영상](https://www.youtube.com/watch?v=LDeyRL4hgMU)
+- 종스크롤 탄막 게임
+- [플레이 영상](https://www.youtube.com/watch?v=LDeyRL4hgMU)
 
 ![image](https://github.com/rnqhscjf3333/Vertical-Scroll-Shooting-Game/assets/41632370/fefef626-c3cd-4a0b-a09e-7fd8604f3743)
 
@@ -42,7 +42,7 @@
 - 궁수(에이린) : 일반공격력 증가, 마나 소모량 감소, 마나 회복량 증가
 
 ### 웨이브 구성
-![image](https://github.com/rnqhscjf3333/Vertical-Scroll-Shooting-Game/assets/41632370/d0075d66-06e0-45ab-bcaa-f2758ebac4d7)<br>
+![image](https://github.com/rnqhscjf3333/Touhou_Project/assets/41632370/b3817cce-86c2-4020-b5ed-c1f8a65c733f)<br>
 웨이브는 총 3웨이브로 구성
 - 몬스터1(레이무) : 플레이어를 향해서 반사가능 탄막과 반사불가 탄막 번갈아가며 발사
 - 몬스터2(레이센) : 랜덤각도와 랜덤속도로 소량의 반사가능 탄막과 다량의 반사불가 탄막 난사
