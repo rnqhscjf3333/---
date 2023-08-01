@@ -1,5 +1,6 @@
 # 동방과제록(東方課題郷)-이세카이로부터 탈출
 종스크롤 탄막 게임
+[플레이 영상](https://www.youtube.com/watch?v=LDeyRL4hgMU)
 
 ![image](https://github.com/rnqhscjf3333/Vertical-Scroll-Shooting-Game/assets/41632370/fefef626-c3cd-4a0b-a09e-7fd8604f3743)
 
